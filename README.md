@@ -5,15 +5,20 @@ You can click the Preview link to take a look at your changes.
 # Hi there, I'm Gabriel Ihloff 👋
 
 ### 👨‍💻 About Me
-<img align="right" width="150" src="./PortfolioPic.png" alt="Profile Photo" />
+<img align="right" width="150" src="./your-profile-photo.jpg" alt="Profile Photo" />
 
-I am a **Machine Learning Student** at **Atlas School of Tulsa**, currently in my **4th Trimester (of 5)**. 
+I am a **Machine Learning Student** at **Atlas School of Tulsa**, currently in my **4th Trimester (of 5)**.
 
-Since beginning my Machine Learning specialization in Trimester 3, I have focused on predictive modeling, data analysis, and Python-based data science tools. Unlike many data scientists, I started my journey with a rigorous **Full Stack Software Engineering** foundation. This unique combination allows me to not just build models, but understand the backend systems (C#, SQL) required to deploy and maintain them in production environments.
+My technical journey began at the **University of Oklahoma**, where I studied **Mechanical and Electrical Engineering**. This background provided me with a rigorous foundation in the advanced mathematics and systems logic required for Data Science. 
+
+I pivoted to the tech industry to apply that logic to software. At Atlas, I spent my first two trimesters building a strong **Full Stack Software Engineering** foundation (C#, SQL, JavaScript) before specializing in Machine Learning in Trimester 3. 
+
+This unique combination allows me to be a "hybrid" developer: I don't just build predictive models in a notebook; I understand the backend architecture required to deploy, integrate, and maintain them in production environments.
 
 * **Primary Focus:** Machine Learning, Data Analytics, Python (Pandas, Scikit-Learn).
-* **Technical Foundation:** C, C# (.NET), SQL, JavaScript, React, Node.
-* **Education:** Atlas School of Tulsa (Vocational Software Engineering).
+* **Technical Foundation:** C, C# (.NET), SQL, JavaScript.
+* **Education:** * **Atlas School of Tulsa** (Vocational Software Engineering)
+    * **University of Oklahoma** (Coursework in Mechanical & Electrical Engineering)
 
 ---
 
