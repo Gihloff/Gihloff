@@ -5,7 +5,7 @@ You can click the Preview link to take a look at your changes.
 # Hi there, I'm Gabriel Ihloff 👋
 
 ### 👨‍💻 About Me
-<img align="right" width="150" src="./your-profile-photo.jpg" alt="Profile Photo" />
+<img align="right" width="150" src="./PortfolioPic.png" alt="Profile Photo" />
 
 I am a **Machine Learning Student** at **Atlas School of Tulsa**, currently in my **4th Trimester (of 5)**.
 
